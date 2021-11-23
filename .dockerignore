@@ -1,0 +1,4 @@
+.idea
+.dockerignore
+Dockerfile
+Dockerfile.prod
